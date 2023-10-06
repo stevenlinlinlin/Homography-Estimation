@@ -36,6 +36,9 @@ one image to be rectified
 
 ### Select 4 corner points
 Using mouse_click_example.py to select 4 corner points
+```bash
+python mouse_click_example.py images/2-my_img.png
+```
 
 ### Homography estimation and Warping
 ```bash
