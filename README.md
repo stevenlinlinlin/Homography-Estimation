@@ -1,7 +1,7 @@
 # Homography-Estimation
 3DCV
 
-## homography estimation
+## homography estimation (DLT and NDLT) - 1.py
 ### Input
 two images and their corresponding points
 
@@ -30,7 +30,7 @@ two images and their corresponding points
 - Reprojection error
 
 
-## Document rectification
+## Document rectification - 2.py
 ### Input
 one image to be rectified
 
